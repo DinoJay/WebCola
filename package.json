@@ -1,0 +1,26 @@
+{
+  "name": "webcola",
+  "version": "1.0.0",
+  "description": "my fork of webcola, incorporated d3 3.5 for server use",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DinoJay/WebCola.git"
+  },
+  "keywords": [
+    "webcola",
+    "d3"
+  ],
+  "author": "DinoJay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DinoJay/WebCola/issues"
+  },
+  "homepage": "https://github.com/DinoJay/WebCola#readme"
+}
